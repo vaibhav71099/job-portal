@@ -1,0 +1,13 @@
+.idea/
+.DS_Store
+
+# Local runtime/log/temp
+*.log
+*.tmp
+
+# Backend
+job-portal-backend/target/
+
+# Frontend
+job-portal-frontend/node_modules/
+job-portal-frontend/build/
